@@ -1,0 +1,8 @@
+prefix=/home/pakrasi/catkin_ws/install
+
+Name: pr2_app_manager
+Description: Description of pr2_app_manager
+Version: 0.5.22
+Cflags: 
+Libs: -L/home/pakrasi/catkin_ws/install/lib 
+Requires: app_manager willow_maps

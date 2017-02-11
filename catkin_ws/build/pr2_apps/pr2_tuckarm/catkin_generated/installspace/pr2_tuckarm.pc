@@ -1,0 +1,8 @@
+prefix=/home/pakrasi/catkin_ws/install
+
+Name: pr2_tuckarm
+Description: Description of pr2_tuckarm
+Version: 0.5.22
+Cflags: 
+Libs: -L/home/pakrasi/catkin_ws/install/lib 
+Requires: rospy trajectory_msgs pr2_mechanism_msgs pr2_tuck_arms_action

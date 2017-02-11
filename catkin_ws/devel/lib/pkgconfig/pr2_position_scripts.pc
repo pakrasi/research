@@ -1,0 +1,8 @@
+prefix=/home/pakrasi/catkin_ws/devel
+
+Name: pr2_position_scripts
+Description: Description of pr2_position_scripts
+Version: 0.5.22
+Cflags: 
+Libs: -L/home/pakrasi/catkin_ws/devel/lib 
+Requires: 
